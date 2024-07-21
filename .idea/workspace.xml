@@ -4,22 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="14th july before break - It contains type casting and increments">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab067.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab078.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab080.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="14th july after break - It contains string">
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab098.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab099.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab104.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,18 +118,43 @@
     "Application.Lab078.executor": "Run",
     "Application.Lab079.executor": "Run",
     "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Run",
+    "Application.Lab088.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099.executor": "Run",
+    "Application.Lab100.executor": "Run",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab104.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab081">
-    <configuration name="Lab076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab076" />
+  <component name="RunManager" selected="Application.Lab105">
+    <configuration name="Lab101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab101" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab078" />
+    <configuration name="Lab102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab102" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab079" />
+    <configuration name="Lab103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab103" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab080" />
+    <configuration name="Lab104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab104" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab081" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab081" />
+    <configuration name="Lab105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab105" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab081" />
-        <item itemvalue="Application.Lab080" />
-        <item itemvalue="Application.Lab079" />
-        <item itemvalue="Application.Lab078" />
-        <item itemvalue="Application.Lab076" />
+        <item itemvalue="Application.Lab105" />
+        <item itemvalue="Application.Lab104" />
+        <item itemvalue="Application.Lab103" />
+        <item itemvalue="Application.Lab102" />
+        <item itemvalue="Application.Lab101" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721220577078</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="14th july after break - It contains string">
+      <option name="closed" value="true" />
+      <created>1721286960916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721286960916</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +299,8 @@
     <MESSAGE value="13th july first commit" />
     <MESSAGE value="13th july Final commit (It contains concatenation, and , or operators )etc" />
     <MESSAGE value="14th july before break - It contains type casting and increments" />
-    <option name="LAST_COMMIT_MESSAGE" value="14th july before break - It contains type casting and increments" />
+    <MESSAGE value="14th july after break - It contains string" />
+    <option name="LAST_COMMIT_MESSAGE" value="14th july after break - It contains string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,6 +340,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_20072024/Lab097.java</url>
+          <line>3</line>
+          <properties class="ex_20072024.Lab097" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_20072024/Lab101.java</url>
+          <line>5</line>
+          <properties class="ex_20072024.Lab101" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
