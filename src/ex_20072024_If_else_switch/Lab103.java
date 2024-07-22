@@ -1,4 +1,4 @@
-package ex_20072024;
+package ex_20072024_If_else_switch;
 
 import java.util.Scanner;
 

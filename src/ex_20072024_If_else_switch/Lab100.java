@@ -1,4 +1,4 @@
-package ex_20072024;
+package ex_20072024_If_else_switch;
 
 public class Lab100 {
     public static void main(String[] args) {

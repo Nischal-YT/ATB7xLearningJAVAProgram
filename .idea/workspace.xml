@@ -4,31 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="14th july after break - It contains string">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab104.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="20th july - If else conditions and switch">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab106.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab082.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab082.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab083.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab083.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab084.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab084.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab085.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab085.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab086.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab086.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab087.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab087.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab088.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab088.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab089.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab089.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab090.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab090.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab091.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab091.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab092.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab092.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab093.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab093.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab094.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab095.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab095.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab096.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab096.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab097.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab097.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab098.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab098.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab099.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab099.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab103.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab105.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +72,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FizzBuzzTest.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
@@ -140,6 +145,9 @@
     "Application.Lab102.executor": "Run",
     "Application.Lab103.executor": "Run",
     "Application.Lab104.executor": "Run",
+    "Application.Lab105.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -148,39 +156,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab105">
-    <configuration name="Lab101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab101" />
+  <component name="RunManager" selected="Application.Lab106">
+    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.FizzBuzzTest" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab102" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab103" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +171,11 @@
       </method>
     </configuration>
     <configuration name="Lab104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab104" />
+      <option name="MAIN_CLASS_NAME" value="ex_20072024_If_else_switch.Lab104" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_20072024_If_else_switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +184,37 @@
       </method>
     </configuration>
     <configuration name="Lab105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab105" />
+      <option name="MAIN_CLASS_NAME" value="ex_20072024_If_else_switch.Lab105" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_20072024_If_else_switch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab106" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024_Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.TriangleClassifier" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab106" />
+        <item itemvalue="Application.FizzBuzzTest" />
+        <item itemvalue="Application.TriangleClassifier" />
         <item itemvalue="Application.Lab105" />
         <item itemvalue="Application.Lab104" />
-        <item itemvalue="Application.Lab103" />
-        <item itemvalue="Application.Lab102" />
-        <item itemvalue="Application.Lab101" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721286960916</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20th july - If else conditions and switch">
+      <option name="closed" value="true" />
+      <created>1721554424503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721554424503</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -300,7 +316,8 @@
     <MESSAGE value="13th july Final commit (It contains concatenation, and , or operators )etc" />
     <MESSAGE value="14th july before break - It contains type casting and increments" />
     <MESSAGE value="14th july after break - It contains string" />
-    <option name="LAST_COMMIT_MESSAGE" value="14th july after break - It contains string" />
+    <MESSAGE value="20th july - If else conditions and switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th july - If else conditions and switch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -342,18 +359,18 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ex_20072024/Lab097.java</url>
+          <url>file://$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab097.java</url>
           <line>3</line>
-          <properties class="ex_20072024.Lab097" method="main">
+          <properties class="ex_20072024_If_else_switch.Lab097" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ex_20072024/Lab101.java</url>
+          <url>file://$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab101.java</url>
           <line>5</line>
-          <properties class="ex_20072024.Lab101" method="main">
+          <properties class="ex_20072024_If_else_switch.Lab101" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
