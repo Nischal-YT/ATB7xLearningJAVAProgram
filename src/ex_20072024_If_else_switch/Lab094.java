@@ -12,25 +12,26 @@ public class Lab094 {
         char user_input = sc.next().charAt(0);
 
         System.out.println(user_input);
+        //user_input = user_input.toLowerCase();
 
         switch (user_input) {
-            case 'a':
+            case 'a','A':
                 System.out.println("Vowel");
                 break;
-            case 'e':
+            case 'e','E':
                 System.out.println("Vowel");
                 break;
-            case 'i':
+            case 'i','I':
                 System.out.println("Vowel");
                 break;
-            case 'o':
+            case 'o','O':
                 System.out.println("Vowel");
                 break;
-            case 'u':
+            case 'u','U':
                 System.out.println("Vowel");
                 break;
             default:
-                System.out.println("Not a Vowel, It it Consonant");
+                System.out.println("Not a Vowel, It is Consonant");
 
         }
 

@@ -4,28 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="20th july - If-else conditions and switch">
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab125.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="21st july - Loops and continue - before break">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab130_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab133_FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab134_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab136.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab094.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,8 +151,19 @@
     "Application.Lab122.executor": "Run",
     "Application.Lab123.executor": "Run",
     "Application.Lab125.executor": "Run",
+    "Application.Lab126.executor": "Run",
+    "Application.Lab127.executor": "Run",
+    "Application.Lab129.executor": "Run",
+    "Application.Lab130_Factorial.executor": "Run",
+    "Application.Lab131.executor": "Run",
+    "Application.Lab132.executor": "Run",
+    "Application.Lab133_FizzBuzz.executor": "Run",
+    "Application.Lab134.executor": "Run",
+    "Application.Lab135.executor": "Run",
+    "Application.Lab136.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "SDKs",
@@ -166,9 +171,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab125">
-    <configuration name="Lab120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab120" />
+  <component name="RunManager" selected="Application.Lab136">
+    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab132" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab121" />
+    <configuration name="Lab133_FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab133_FizzBuzz" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -193,8 +198,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab122" />
+    <configuration name="Lab134_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab134_Function" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +211,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab123" />
+    <configuration name="Lab135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab135" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -219,8 +224,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab125" />
+    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab136" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -234,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab125" />
-        <item itemvalue="Application.Lab123" />
-        <item itemvalue="Application.Lab122" />
-        <item itemvalue="Application.Lab121" />
-        <item itemvalue="Application.Lab120" />
+        <item itemvalue="Application.Lab136" />
+        <item itemvalue="Application.Lab135" />
+        <item itemvalue="Application.Lab134_Function" />
+        <item itemvalue="Application.Lab133_FizzBuzz" />
+        <item itemvalue="Application.Lab132" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721645772656</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="21st july - Loops and continue - before break">
+      <option name="closed" value="true" />
+      <created>1721651513749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721651513749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="21st july - Loops and continue - before break">
+      <option name="closed" value="true" />
+      <created>1721651547416</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721651547416</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -336,7 +357,8 @@
     <MESSAGE value="14th july after break - It contains string" />
     <MESSAGE value="20th july - If else conditions and switch" />
     <MESSAGE value="20th july - If-else conditions and switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th july - If-else conditions and switch" />
+    <MESSAGE value="21st july - Loops and continue - before break" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st july - Loops and continue - before break" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

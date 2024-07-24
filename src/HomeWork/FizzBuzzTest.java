@@ -9,7 +9,6 @@ public class FizzBuzzTest {
 // and for multiples of 5, print "Buzz.
 // " For numbers that are multiples of both 3 and 5, print "FizzBuzz."
         Scanner sc = new Scanner(System.in);
-
         System.out.println("Enter the number");
         int num = sc.nextInt();
         if (num%3==0 && num%5==0){
