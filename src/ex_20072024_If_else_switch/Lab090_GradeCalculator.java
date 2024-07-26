@@ -2,7 +2,7 @@ package ex_20072024_If_else_switch;
 
 import java.util.Scanner;
 
-public class Lab090 {
+public class Lab090_GradeCalculator {
     public static void main(String[] args) {
          // ✅ Grade Calculator:
 //        Write a program that calculates and displays

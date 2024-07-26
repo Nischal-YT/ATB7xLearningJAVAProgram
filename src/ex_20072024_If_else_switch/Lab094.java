@@ -12,7 +12,7 @@ public class Lab094 {
         char user_input = sc.next().charAt(0);
 
         System.out.println(user_input);
-        //user_input = user_input.toLowerCase();
+
 
         switch (user_input) {
             case 'a','A':
@@ -36,12 +36,13 @@ public class Lab094 {
         }
 
 //        switch (user_input){
-//            case 'a','i','o','u','e':
-//                System.out.println("Vowel");
-//                break;
-//            default:
-//                System.out.println("Not a Vowel, It it Consonant");
-
-       // }
+//            case 'a','e','i','o','u','A','E','I','O','U':
+//             System.out.println("Character " +user_input+ " is Vowel");
+//              break;
+//              default:
+//              System.out.println("Character " +user_input+ " is not Vowel It's Consonant");
+//              }
+//              }
+//
     }
 }

@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="21st july - Loops and continue - before break">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab130_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab133_FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab134_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab136.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="21st july - other loops and functions">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ActualFizzBuzzTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab090.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab090_GradeCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024_If_else_switch/Lab094.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab133_FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_21072024_Loops/Lab133_FizzBuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ActualFizzBuzzTest.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
     "Application.Lab002.executor": "Run",
     "Application.Lab003.executor": "Run",
@@ -154,7 +145,7 @@
     "Application.Lab126.executor": "Run",
     "Application.Lab127.executor": "Run",
     "Application.Lab129.executor": "Run",
-    "Application.Lab130_Factorial.executor": "Run",
+    "Application.Lab130_Factorial.executor": "Debug",
     "Application.Lab131.executor": "Run",
     "Application.Lab132.executor": "Run",
     "Application.Lab133_FizzBuzz.executor": "Run",
@@ -171,9 +162,48 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab136">
-    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab132" />
+  <component name="RunManager" selected="Application.Lab090_GradeCalculator">
+    <configuration name="ActualFizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ActualFizzBuzzTest" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab090_GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024_If_else_switch.Lab090_GradeCalculator" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20072024_If_else_switch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024_If_else_switch.Lab094" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20072024_If_else_switch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab130_Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab130_Factorial" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -185,51 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab133_FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab133_FizzBuzz" />
+    <configuration name="TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.TriangleClassifier" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024_Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab134_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab134_Function" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024_Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab135" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024_Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024_Loops.Lab136" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024_Loops.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab136" />
-        <item itemvalue="Application.Lab135" />
-        <item itemvalue="Application.Lab134_Function" />
-        <item itemvalue="Application.Lab133_FizzBuzz" />
-        <item itemvalue="Application.Lab132" />
+        <item itemvalue="Application.Lab090_GradeCalculator" />
+        <item itemvalue="Application.Lab094" />
+        <item itemvalue="Application.TriangleClassifier" />
+        <item itemvalue="Application.Lab130_Factorial" />
+        <item itemvalue="Application.ActualFizzBuzzTest" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721651547416</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="21st july - other loops and functions">
+      <option name="closed" value="true" />
+      <created>1721809909416</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721809909416</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -358,7 +357,8 @@
     <MESSAGE value="20th july - If else conditions and switch" />
     <MESSAGE value="20th july - If-else conditions and switch" />
     <MESSAGE value="21st july - Loops and continue - before break" />
-    <option name="LAST_COMMIT_MESSAGE" value="21st july - Loops and continue - before break" />
+    <MESSAGE value="21st july - other loops and functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st july - other loops and functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
