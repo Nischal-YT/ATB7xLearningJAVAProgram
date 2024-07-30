@@ -2,7 +2,7 @@ package HomeWork;
 
 import java.util.Scanner;
 
-public class FizzBuzzTest {
+public class FizzBuzzTestWhenUserEntersNumber {
     public static void main(String[] args) {
 //Write a program that prints numbers from 1 to 100.
 // However, for multiples of 3, print "Fizz" instead of the number,

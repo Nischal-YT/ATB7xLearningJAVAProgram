@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="imp">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank/ToPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Dummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/SwapTwoNumbersWithoutThirdVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ToReverseNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/FizzBuzzTestWhenUserEntersNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,9 @@
     &quot;accountId&quot;: &quot;21e87a08-69b4-4fc4-b5ce-021eeb4466aa&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/HomeWork/PrimeNumber.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -57,7 +56,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ActualFizzBuzzTest.executor": "Run",
+    "Application.Dummy.executor": "Run",
     "Application.EvenorOdd.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Debug",
     "Application.FizzBuzzTest.executor": "Run",
     "Application.Lab002.executor": "Run",
@@ -173,6 +174,9 @@
     "Application.Lab151.executor": "Run",
     "Application.Lab153.executor": "Run",
     "Application.Lab159.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
+    "Application.ToReverseNumber.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -180,7 +184,8 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -188,9 +193,9 @@
       <recent name="HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab159">
-    <configuration name="EvenorOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.EvenorOdd" />
+  <component name="RunManager" selected="Application.Dummy">
+    <configuration name="Dummy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Dummy" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -202,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Fibonacci" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Factorial" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
@@ -215,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024_Arrays.Lab151" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.PrimeNumber" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27072024_Arrays.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab153" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27072024_Arrays.Lab153" />
+    <configuration name="SwapTwoNumbersWithoutThirdVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.SwapTwoNumbersWithoutThirdVariable" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27072024_Arrays.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024_OOPS.Lab159" />
+    <configuration name="ToReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ToReverseNumber" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_28072024_OOPS.*" />
+          <option name="PATTERN" value="HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab159" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.EvenorOdd" />
-        <item itemvalue="Application.Lab153" />
-        <item itemvalue="Application.Lab151" />
+        <item itemvalue="Application.Dummy" />
+        <item itemvalue="Application.ToReverseNumber" />
+        <item itemvalue="Application.SwapTwoNumbersWithoutThirdVariable" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722262806359</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="imp">
+      <option name="closed" value="true" />
+      <created>1722323034970</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722323034970</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
