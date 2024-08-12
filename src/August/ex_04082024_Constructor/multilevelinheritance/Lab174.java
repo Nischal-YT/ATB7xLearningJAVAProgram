@@ -1,4 +1,4 @@
-package August.multilevelinheritance;
+package August.ex_04082024_Constructor.multilevelinheritance;
 
 public class Lab174 {
     public static void main(String[] args) {

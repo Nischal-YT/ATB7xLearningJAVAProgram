@@ -1,4 +1,4 @@
-package August.accessModifiers.Police;
+package August.ex_04082024_Constructor.accessModifiers.Police;
 
 public class Cop {
     private int gun;

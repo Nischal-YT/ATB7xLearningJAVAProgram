@@ -1,4 +1,4 @@
-package August.multilevelinheritance;
+package August.ex_04082024_Constructor.multilevelinheritance;
 
 public class Father extends GrandFather {
     void home(){

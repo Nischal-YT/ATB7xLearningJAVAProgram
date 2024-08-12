@@ -1,4 +1,4 @@
-package August.multilevelinheritance.real;
+package August.ex_04082024_Constructor.multilevelinheritance.real;
 
 public class TestCase2 extends BaseTest{
 

@@ -1,4 +1,4 @@
-package August.singleinheritance;
+package August.ex_04082024_Constructor.singleinheritance;
 
 public class Son extends Father{
     // IS A - RELATIONSHIP

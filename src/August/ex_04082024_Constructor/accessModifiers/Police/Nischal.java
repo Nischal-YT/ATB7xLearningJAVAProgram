@@ -1,4 +1,4 @@
-package August.accessModifiers.Police;
+package August.ex_04082024_Constructor.accessModifiers.Police;
 
 public class Nischal {
     private String name;

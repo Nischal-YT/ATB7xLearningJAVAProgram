@@ -1,4 +1,4 @@
-package August.hierachicalinheritance;
+package August.ex_04082024_Constructor.hierachicalinheritance;
 
 public class Father {
     void home(){

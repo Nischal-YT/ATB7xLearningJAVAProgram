@@ -1,4 +1,4 @@
-package August.accessModifiers.Criminal;
+package August.ex_04082024_Constructor.accessModifiers.Criminal;
 
 import August.accessModifiers.Police.Cop;
 
