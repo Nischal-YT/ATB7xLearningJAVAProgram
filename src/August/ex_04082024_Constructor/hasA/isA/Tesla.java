@@ -1,6 +1,6 @@
-package August.hasA.isA;
+package August.ex_04082024_Constructor.hasA.isA;
 
-import August.hasA.ex.Car;
+import August.ex_04082024_Constructor.hasA.ex.Car;
 
 public class Tesla extends Car {
     void start(){

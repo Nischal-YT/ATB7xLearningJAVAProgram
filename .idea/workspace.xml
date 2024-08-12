@@ -4,86 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="July Practise">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/isA/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleinheritance/ex/Programming.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="constructor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/ATBPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/ATBPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab162.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab163_Pesron.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab163_Pesron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab163_Pesron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab164_Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab164_Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab164_Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab165.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab165.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab165.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab168_ATBPerson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab168_ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab168_ATBPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab169_ATBPerson1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab169_ATBPerson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab169_ATBPerson1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab176.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab176.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab_170_BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Lab_170_BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab_170_BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Criminal/Theif.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Criminal/Theif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/accessModifiers/Criminal/Theif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Lab176.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/accessModifiers/Lab176.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Police/Cop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Police/Cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/accessModifiers/Police/Cop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Police/JrCop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Police/JrCop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/accessModifiers/Police/JrCop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Police/Nischal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/accessModifiers/Police/Nischal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/accessModifiers/Police/Nischal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/ex/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/ex/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/ex/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/ex/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/ex/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/ex/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/ex/Tyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/ex/Tyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/ex/Tyres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hasA/isA/Tesla.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Aariv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Aariv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hierachicalinheritance/Aariv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Father.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hierachicalinheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Lab175.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Lab175.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hierachicalinheritance/Lab175.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Nischal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/Nischal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hierachicalinheritance/Nischal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/RedChilli.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/hierachicalinheritance/RedChilli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hierachicalinheritance/RedChilli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/Father.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/GrandFather.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/GrandFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/GrandFather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/Lab174.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/Lab174.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/Lab174.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/real/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/GrandBaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/real/GrandBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/TestCase1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/real/TestCase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/TestCase2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/multilevelinheritance/real/TestCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/multilevelinheritance/real/TestCase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/Father.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleinheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/Lab172.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/Lab172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleinheritance/Lab172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/Son.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleinheritance/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/ex/Programming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/ex/Python.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August_ex_04082024_Constructor/singleinheritance/ex/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleinheritance/ex/Python.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/accessModifiers/Criminal/Theif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/accessModifiers/Criminal/Theif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/hasA/isA/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/hasA/isA/Tesla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -528,7 +452,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723348567519</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1723444190776</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723444190776</updated>
+    </task>
+    <task id="LOCAL-00023" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1723444648193</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723444648193</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -550,7 +490,8 @@
     <MESSAGE value="Constructor 04th august first half" />
     <MESSAGE value="Constructor 04th august second half" />
     <MESSAGE value="July Practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="July Practise" />
+    <MESSAGE value="constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
