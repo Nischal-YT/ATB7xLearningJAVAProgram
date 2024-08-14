@@ -23,16 +23,18 @@ class Person1 {
         System.out.println("Person1  - PC A2");
     }
 }
-class Student1 extends Person1{
+class Student1 extends Person1 {
     int a = 10;
-    Student1(String s){
+
+    Student1(String s) {
         System.out.println("PC -Student");
     }
 
-    Student1(){
+    Student1() {
         super();
         System.out.println(this.a);
         //super("Pramod");
         //super("pramod",12);
         //this("Pramod");
     }
+}
