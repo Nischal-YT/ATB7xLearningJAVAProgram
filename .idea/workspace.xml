@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="constructor">
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/RealTimeInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/encap/ICICIBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/encap/Lab178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/encap/Lab179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/encap/Lab180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/encap/VWOLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/poly/methodoveridding/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/poly/methodoveridding/Hound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/poly/methodoveridding/Lab182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/poly/methodoverloading/Lab181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/poly/methodoverloading/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/superthiskeyword/Lab183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/superthiskeyword/Lab184.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_10082024/superthiskeyword/Lab185.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/accessModifiers/Criminal/Theif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/accessModifiers/Criminal/Theif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/hasA/isA/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024_Constructor/hasA/isA/Tesla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,164 +60,170 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ActualFizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dummy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenorOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzzTestWhenUserEntersNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab033.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab034.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab035.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab036.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab037.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab038.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab039.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab041.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab049.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab052.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab056.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab057.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab058.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab059.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab060.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab061.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab062.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab063.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab065.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab066.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab067.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab071.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab074.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab075.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab076.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab078.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab079.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab080.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab081.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab082.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab083.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab084.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab085.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab086.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab087.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab088.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab090.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab090_GradeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab091.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab092.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab093.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab094.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab096.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab097.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab098.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab099.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab100.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab101.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab102.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab103.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab104.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab105.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab106.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab107.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab108.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab109.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab110.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab112.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab113.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab114.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab115.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab116.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab117.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab118.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab119.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab120.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab121.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab122.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab123.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab125.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab126.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab127.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab129.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab130_Factorial.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab131.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab132.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab133_FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab134.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab135.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab136.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab139.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab140.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab141.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab142.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab145.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab146_AvgScore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab147_Maxsalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab150.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab151.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab153.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab159.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab163.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab164_Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab168_ATBPerson.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab169_ATBPerson1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab172.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab174.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab175.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_170_BankAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapTwoNumbersWithoutThirdVariable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCase2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ToReverseNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleClassifier.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActualFizzBuzzTest.executor": "Run",
+    "Application.Dummy.executor": "Run",
+    "Application.EvenorOdd.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Debug",
+    "Application.FizzBuzzTest.executor": "Run",
+    "Application.FizzBuzzTestWhenUserEntersNumber.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Run",
+    "Application.Lab088.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab090_GradeCalculator.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099.executor": "Run",
+    "Application.Lab100.executor": "Run",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab104.executor": "Run",
+    "Application.Lab105.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108.executor": "Run",
+    "Application.Lab109.executor": "Run",
+    "Application.Lab110.executor": "Run",
+    "Application.Lab112.executor": "Run",
+    "Application.Lab113.executor": "Run",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab115.executor": "Debug",
+    "Application.Lab116.executor": "Run",
+    "Application.Lab117.executor": "Run",
+    "Application.Lab118.executor": "Run",
+    "Application.Lab119.executor": "Run",
+    "Application.Lab120.executor": "Run",
+    "Application.Lab121.executor": "Run",
+    "Application.Lab122.executor": "Run",
+    "Application.Lab123.executor": "Run",
+    "Application.Lab125.executor": "Run",
+    "Application.Lab126.executor": "Run",
+    "Application.Lab127.executor": "Run",
+    "Application.Lab129.executor": "Run",
+    "Application.Lab130_Factorial.executor": "Debug",
+    "Application.Lab131.executor": "Run",
+    "Application.Lab132.executor": "Run",
+    "Application.Lab133_FizzBuzz.executor": "Run",
+    "Application.Lab134.executor": "Run",
+    "Application.Lab135.executor": "Run",
+    "Application.Lab136.executor": "Run",
+    "Application.Lab139.executor": "Run",
+    "Application.Lab140.executor": "Run",
+    "Application.Lab141.executor": "Run",
+    "Application.Lab142.executor": "Run",
+    "Application.Lab145.executor": "Run",
+    "Application.Lab146_AvgScore.executor": "Run",
+    "Application.Lab147_Maxsalary.executor": "Run",
+    "Application.Lab150.executor": "Run",
+    "Application.Lab151.executor": "Run",
+    "Application.Lab153.executor": "Run",
+    "Application.Lab159.executor": "Run",
+    "Application.Lab163.executor": "Run",
+    "Application.Lab164_Car.executor": "Run",
+    "Application.Lab168_ATBPerson.executor": "Run",
+    "Application.Lab169_ATBPerson1.executor": "Run",
+    "Application.Lab172.executor": "Run",
+    "Application.Lab174.executor": "Run",
+    "Application.Lab175.executor": "Run",
+    "Application.Lab178.executor": "Run",
+    "Application.Lab179.executor": "Run",
+    "Application.Lab180.executor": "Run",
+    "Application.Lab181.executor": "Debug",
+    "Application.Lab182.executor": "Run",
+    "Application.Lab183.executor": "Run",
+    "Application.Lab_170_BankAccount.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
+    "Application.TestCase2.executor": "Run",
+    "Application.ToPrint.executor": "Run",
+    "Application.ToReverseNumber.executor": "Run",
+    "Application.TriangleClassifier.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab_170_BankAccount">
-    <configuration name="ActualFizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July.HomeWork.ActualFizzBuzzTest" />
+  <component name="RunManager" selected="Application.Lab183">
+    <configuration name="Lab179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.encap.Lab179" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="July.HomeWork.*" />
+          <option name="PATTERN" value="August.ex_10082024.encap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTestWhenUserEntersNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="July.HomeWork.FizzBuzzTestWhenUserEntersNumber" />
+    <configuration name="Lab180" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.encap.Lab180" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="July.HomeWork.*" />
+          <option name="PATTERN" value="August.ex_10082024.encap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.August_ex_04082024_Constructor.hierachicalinheritance.Lab175" />
+    <configuration name="Lab181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.poly.methodoverloading.Lab181" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.August_ex_04082024_Constructor.hierachicalinheritance.*" />
+          <option name="PATTERN" value="August.ex_10082024.poly.methodoverloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_170_BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_04082024_Constructor.Lab_170_BankAccount" />
+    <configuration name="Lab182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.poly.methodoveridding.Lab182" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_04082024_Constructor.*" />
+          <option name="PATTERN" value="August.ex_10082024.poly.methodoveridding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.August_ex_04082024_Constructor.multilevelinheritance.real.TestCase2" />
+    <configuration name="Lab183" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.superthiskeyword.Lab183" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.August_ex_04082024_Constructor.multilevelinheritance.real.*" />
+          <option name="PATTERN" value="August.ex_10082024.superthiskeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_170_BankAccount" />
-        <item itemvalue="Application.FizzBuzzTestWhenUserEntersNumber" />
-        <item itemvalue="Application.ActualFizzBuzzTest" />
-        <item itemvalue="Application.Lab175" />
-        <item itemvalue="Application.TestCase2" />
+        <item itemvalue="Application.Lab183" />
+        <item itemvalue="Application.Lab182" />
+        <item itemvalue="Application.Lab181" />
+        <item itemvalue="Application.Lab180" />
+        <item itemvalue="Application.Lab179" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +486,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723444648193</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="constructor">
+      <option name="closed" value="true" />
+      <created>1723444920097</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723444920097</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -499,7 +525,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_13072024/Lab041.java</url>
           <line>3</line>
-          <properties class="ex_13072024.Lab041">
+          <properties class="July.ex_13072024.Lab041" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -508,7 +534,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_13072024/Lab047.java</url>
           <line>3</line>
-          <properties class="ex_13072024.Lab047">
+          <properties class="July.ex_13072024.Lab047" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -517,7 +543,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_14072024/Lab056.java</url>
           <line>3</line>
-          <properties class="ex_14072024.Lab056">
+          <properties class="July.ex_14072024.Lab056" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -526,7 +552,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_14072024/Lab062.java</url>
           <line>3</line>
-          <properties class="ex_14072024.Lab062">
+          <properties class="July.ex_14072024.Lab062" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -535,7 +561,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_20072024_If_else_switch/Lab097.java</url>
           <line>3</line>
-          <properties class="ex_20072024_If_else_switch.Lab097">
+          <properties class="July.ex_20072024_If_else_switch.Lab097" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -544,7 +570,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_20072024_If_else_switch/Lab101.java</url>
           <line>5</line>
-          <properties class="ex_20072024_If_else_switch.Lab101">
+          <properties class="July.ex_20072024_If_else_switch.Lab101" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
