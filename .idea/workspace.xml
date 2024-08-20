@@ -4,36 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Encapsulation,overloading,overriding,super,realtimeinheritance">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/RealLIFEex/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/RealLIFEex/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/RealLIFEex/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/RealLIFEex/GrandBaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/RealLIFEex/Lab189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/Important_Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/Lab190.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/Lab193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/WagonR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/ex2/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/ex2/Nischal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/multipleinheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/multipleinheritance/Lab192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/multipleinheritance/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/ex_interface/multipleinheritance/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/GearBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Keys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Lab187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/WagonR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/i10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/exloan/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/exloan/Lab188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/exloan/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/statickeyword/Lab193.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Abstraction, interface, static keyword">
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/BUG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/COLORS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab196.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/Lab210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_17082024/PAGES.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -214,6 +204,10 @@
     "Application.Lab187.executor": "Run",
     "Application.Lab189.executor": "Run",
     "Application.Lab193.executor": "Run",
+    "Application.Lab197.executor": "Run",
+    "Application.Lab199.executor": "Run",
+    "Application.Lab205.executor": "Run",
+    "Application.Lab208.executor": "Run",
     "Application.Lab_170_BankAccount.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
@@ -236,59 +230,7 @@
       <recent name="HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab193">
-    <configuration name="Lab182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.poly.methodoveridding.Lab182" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_10082024.poly.methodoveridding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab183" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_10082024.superthiskeyword.Lab183" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_10082024.superthiskeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_11082024.excar.Lab187" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_11082024.excar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_11082024.RealLIFEex.Lab189" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_11082024.RealLIFEex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab208">
     <configuration name="Lab193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_11082024.statickeyword.Lab193" />
       <module name="ATB7xLearningJAVAProgram" />
@@ -302,13 +244,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_17082024.Lab197" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_17082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_17082024.Lab199" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_17082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_17082024.Lab205" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_17082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_17082024.Lab208" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_17082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab208" />
+        <item itemvalue="Application.Lab205" />
+        <item itemvalue="Application.Lab199" />
+        <item itemvalue="Application.Lab197" />
         <item itemvalue="Application.Lab193" />
-        <item itemvalue="Application.Lab189" />
-        <item itemvalue="Application.Lab187" />
-        <item itemvalue="Application.Lab183" />
-        <item itemvalue="Application.Lab182" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723617941493</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Abstraction, interface, static keyword">
+      <option name="closed" value="true" />
+      <created>1723801119018</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723801119018</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -553,7 +555,8 @@
     <MESSAGE value="July Practise" />
     <MESSAGE value="constructor" />
     <MESSAGE value="Encapsulation,overloading,overriding,super,realtimeinheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation,overloading,overriding,super,realtimeinheritance" />
+    <MESSAGE value="Abstraction, interface, static keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction, interface, static keyword" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
