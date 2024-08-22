@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Wrapper class, Enum and Exception">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab218_exceptionpassing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab226.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Exception Handling">
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab229.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab231_Commonlyused_Imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab234_methodstoprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab235.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,6 +210,12 @@
     "Application.Lab224.executor": "Run",
     "Application.Lab225.executor": "Run",
     "Application.Lab226.executor": "Run",
+    "Application.Lab228.executor": "Run",
+    "Application.Lab229.executor": "Run",
+    "Application.Lab231.executor": "Run",
+    "Application.Lab232.executor": "Run",
+    "Application.Lab234.executor": "Run",
+    "Application.Lab235.executor": "Run",
     "Application.Lab_170_BankAccount.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
@@ -233,13 +238,13 @@
       <recent name="HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab226">
-    <configuration name="Lab218_exceptionpassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.Lab218_exceptionpassing" />
+  <component name="RunManager" selected="Application.Lab235">
+    <configuration name="Lab229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab229" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_18082024.*" />
+          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.Lab222" />
+    <configuration name="Lab231_Commonlyused_Imp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab231_Commonlyused_Imp" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_18082024.*" />
+          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab224" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.Lab224" />
+    <configuration name="Lab232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab232" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_18082024.*" />
+          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.Lab225" />
+    <configuration name="Lab234_methodstoprint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab234_methodstoprint" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_18082024.*" />
+          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab226" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.Lab226" />
+    <configuration name="Lab235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab235" />
       <module name="ATB7xLearningJAVAProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.ex_18082024.*" />
+          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab226" />
-        <item itemvalue="Application.Lab225" />
-        <item itemvalue="Application.Lab224" />
-        <item itemvalue="Application.Lab222" />
-        <item itemvalue="Application.Lab218_exceptionpassing" />
+        <item itemvalue="Application.Lab235" />
+        <item itemvalue="Application.Lab234_methodstoprint" />
+        <item itemvalue="Application.Lab232" />
+        <item itemvalue="Application.Lab231_Commonlyused_Imp" />
+        <item itemvalue="Application.Lab229" />
       </list>
     </recent_temporary>
   </component>
@@ -550,7 +555,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724146348250</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Exception Handling">
+      <option name="closed" value="true" />
+      <created>1724220540457</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724220540457</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -577,7 +590,8 @@
     <MESSAGE value="Abstraction, interface, static keyword" />
     <MESSAGE value="Wrapper class" />
     <MESSAGE value="Wrapper class, Enum and Exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapper class, Enum and Exception" />
+    <MESSAGE value="Exception Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
