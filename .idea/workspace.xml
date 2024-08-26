@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Exception Handling">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab227.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab231_Commonlyused_Imp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab233.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab234_methodstoprint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/CollectionFramework/Lab235.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Collection framework">
+      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab239.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -216,6 +211,9 @@
     "Application.Lab232.executor": "Run",
     "Application.Lab234.executor": "Run",
     "Application.Lab235.executor": "Run",
+    "Application.Lab236.executor": "Run",
+    "Application.Lab238.executor": "Run",
+    "Application.Lab239.executor": "Run",
     "Application.Lab_170_BankAccount.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.SwapTwoNumbersWithoutThirdVariable.executor": "Run",
@@ -238,46 +236,7 @@
       <recent name="HomeWork" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab235">
-    <configuration name="Lab229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab229" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab231_Commonlyused_Imp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab231_Commonlyused_Imp" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab232" />
-      <module name="ATB7xLearningJAVAProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="August.ex_18082024.CollectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab238">
     <configuration name="Lab234_methodstoprint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_18082024.CollectionFramework.Lab234_methodstoprint" />
       <module name="ATB7xLearningJAVAProgram" />
@@ -304,13 +263,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_24082024.Lab236" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_24082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_24082024.Lab238" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_24082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_24082024.Lab239" />
+      <module name="ATB7xLearningJAVAProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August.ex_24082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab238" />
+        <item itemvalue="Application.Lab239" />
+        <item itemvalue="Application.Lab236" />
         <item itemvalue="Application.Lab235" />
         <item itemvalue="Application.Lab234_methodstoprint" />
-        <item itemvalue="Application.Lab232" />
-        <item itemvalue="Application.Lab231_Commonlyused_Imp" />
-        <item itemvalue="Application.Lab229" />
       </list>
     </recent_temporary>
   </component>
@@ -563,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724220540457</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Collection framework">
+      <option name="closed" value="true" />
+      <created>1724307800913</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1724307800913</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -591,7 +597,8 @@
     <MESSAGE value="Wrapper class" />
     <MESSAGE value="Wrapper class, Enum and Exception" />
     <MESSAGE value="Exception Handling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception Handling" />
+    <MESSAGE value="Collection framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
