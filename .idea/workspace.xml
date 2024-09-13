@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Collection - Compartor and comparable">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab241.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab245.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab246.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab247.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab248.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_24082024/Lab249.java" afterDir="false" />
+    <list default="true" id="bd602a26-3650-4eba-a161-6b7776ed71a8" name="Changes" comment="Collection - hashmap,hashtable, generic, queue">
+      <change afterPath="$PROJECT_DIR$/src/postman_collections/PreProdEnvironment.postman_environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postman_collections/QA Environment.postman_environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postman_collections/REST API Project#2 - Restful Booker Copy 2.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postman_collections/integration/Project#1 Restful Booker Integration Scenarios.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/postman_collections/integration/QA Environment.postman_environment.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,6 +231,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/naavi/IdeaProjects/ATB7xLearningJAVAProgram/src/postman_collections/integration",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -589,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1724652155457</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Collection - hashmap,hashtable, generic, queue">
+      <option name="closed" value="true" />
+      <created>1724659088429</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1724659088429</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3rd commit -Lab003" />
     <MESSAGE value="4th commit - Lab004" />
     <MESSAGE value="13th july first commit" />
     <MESSAGE value="13th july Final commit (It contains concatenation, and , or operators )etc" />
@@ -618,7 +621,8 @@
     <MESSAGE value="Exception Handling" />
     <MESSAGE value="Collection framework" />
     <MESSAGE value="Collection - Compartor and comparable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection - Compartor and comparable" />
+    <MESSAGE value="Collection - hashmap,hashtable, generic, queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection - hashmap,hashtable, generic, queue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
